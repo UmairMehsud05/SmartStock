@@ -158,7 +158,7 @@
             this.groupBox1.Controls.Add(this.panel4);
             this.groupBox1.Controls.Add(this.lblpassword);
             this.groupBox1.Controls.Add(this.label4);
-            this.groupBox1.Location = new System.Drawing.Point(25, 105);
+            this.groupBox1.Location = new System.Drawing.Point(29, 105);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(482, 609);
             this.groupBox1.TabIndex = 11;

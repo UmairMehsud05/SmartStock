@@ -51,24 +51,6 @@
 
 ---
 
-## Installation Guide
-
-To get started with **SmartStock**, follow these simple steps to set up the project on your local machine.
-
-### Prerequisites
-
-- **Microsoft Visual Studio** (Version 2019 or later)
-- **.NET Framework 4.7.2**
-- **SQL Server** (for local database management)
-
-### Steps to Install
-
-1. **Clone the Repository**
-   Clone the repository to your local machine using the following command:
-   ```bash
-   git clone https://github.com/your-username/SmartStock.git
-
-
 
    ## Screenshots
 
